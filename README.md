@@ -1,2 +1,2 @@
 # SalesforceSuperbadge
-SuperBadge of salesforce
+Aura SuperBadge of Salesforce.
